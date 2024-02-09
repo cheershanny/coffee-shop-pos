@@ -1,5 +1,5 @@
-import Menu from "./Menu/MenuCard";
-import Order from "./Order/OrderCard";
+import Menu from "./components/Menu";
+import Order from "./components/Order";
 
 export default function Home() {
   return (
@@ -9,4 +9,3 @@ export default function Home() {
     </main>
   );
 }
- 
